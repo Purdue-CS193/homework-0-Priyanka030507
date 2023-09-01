@@ -9,7 +9,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 -I like the idea of learning how to operate different useful CS tools that will help me, instead of learning useless theory. 
 -I like the idea of having technical know-how in the CS world. 
 -The idea of operating with different languages and terminals interests me. 
-
+ 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
